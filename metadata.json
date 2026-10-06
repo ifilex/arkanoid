@@ -1,0 +1,6 @@
+{
+  "name": "Arkanoid Retro Arcade",
+  "description": "Clon 100% fiel del clásico Arkanoid con controles táctiles adaptativos para móviles, tienda de skins, sonidos retro auténticos, partículas y sincronización en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
